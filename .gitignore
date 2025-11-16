@@ -1,0 +1,8 @@
+# IDEs and Text Editors
+.idea
+
+# Hidden files created by macOS
+.DS_Store
+
+# Node.js packages
+node_modules

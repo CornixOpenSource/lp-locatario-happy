@@ -1,2 +1,1 @@
-# lp-locatario-happy
-Landing Page da Plataforma Locatário Happy
+# Landing Page da Plataforma Locatário Happy
